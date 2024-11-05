@@ -1,9 +1,9 @@
-## in git user f1cheng who starts to have pull request
-### fork in github web from upempty.
+## 1- in git user f1cheng who starts to have pull request
+### 1.1- fork in github web from upempty.
 
-### as below git operations
+### 1.2- as below git operations
 
-### in f1cheng git web "Compare & pull request"  click to "Add a titile" and "Add a description".  
+### 1.3- in f1cheng git web "Compare & pull request"  click to "Add a titile" and "Add a description".  
 
 
 ```
@@ -110,9 +110,9 @@ To github.com:f1cheng/git.git
   remotes/upstream/master
   ```
   
-## in upempty who accepts the pull request from f1cheng.
-### way1: in web, to "Merge pull request"
-### way2: cli as below git operations
+## 2- in upempty who accepts the pull request from f1cheng.
+### 2.1- way1: in web, to "Merge pull request"
+### 2.2- way2: cli as below git operations
 
 ```
   git clone git@github.com:upempty/git.git
@@ -124,7 +124,7 @@ To github.com:f1cheng/git.git
 ```
 
 
-## precondition here is example for upempty git user.
+## 3- precondition here is example for upempty git user.
 ``` 
 [root@VM-16-14-centos git]# ssh-keygen -t ed25519 -C "184918308@qq.com"
 Generating public/private ed25519 key pair.
@@ -150,6 +150,6 @@ The key's randomart image is:
 [root@VM-16-14-centos git]#
 [root@VM-16-14-centos git]# cat ~/.ssh/id_ed25519.pub
 ``` 
-### Copy to paste to empty's git repo "settings"->"SSH and GPG keys"->"New SSH key"
+### 3.1- Copy to paste to empty's git repo "settings"->"SSH and GPG keys"->"New SSH key"
 
-### then have the git repo rights for ssh git clone and git push.
+### 3.2- then have the git repo rights for ssh git clone and git push.
