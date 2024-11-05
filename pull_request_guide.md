@@ -1,5 +1,5 @@
 ## 1- in git user f1cheng who starts to have pull request
-### 1.1- fork in github web from upempty.
+### 1.1- fork project(e.g. here is git) in github web from upempty.
 
 ### 1.2- as below git operations
 
